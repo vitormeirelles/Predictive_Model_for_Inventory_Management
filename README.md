@@ -116,12 +116,11 @@ project_II_stock_forecasting/
 │   ├── 03_gold_modeling.ipynb
 │   ├── 04_eda_full_dataset.ipynb
 │   ├── 05_eda_define_poc.ipynb
-│   ├── 06_eda_initial_insights_poc.ipynb
-│   ├── 07_feature_engineering.ipynb
-│   ├── 08_model_arima.ipynb
-│   ├── 09_model_sarima.ipynb
-│   ├── 10_model_sarimax.ipynb
-│   ├── 11_model_linear_regression.ipynb
+│   ├── 06_feature_engineering.ipynb
+│   ├── 07_model_arima.ipynb
+│   ├── 08_model_sarima.ipynb
+│   ├── 09_model_sarimax.ipynb
+│   ├── 10_model_linear_regression.ipynb
 │
 ├── reports/
 │   ├── project_II_presentation.pdf
